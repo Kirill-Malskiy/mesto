@@ -17,3 +17,7 @@ JavaScript
 Grid Layout
 Flexbox-вёрстка
 Медиазапросы
+
+### Ссылка
+
+https://kirill-malskiy.github.io/mesto/index.html
