@@ -10,8 +10,8 @@ open.addEventListener('click', togglePopup);
 close.addEventListener('click', togglePopup);
 
 let formElement = document.querySelector('.popup__content');
-let popupFieldName = popup.querySelector('.popup__name');
-let popupFieldJob = popup.querySelector('.popup__job');
+let popupFieldName = popup.querySelector('.popup__field_next-name');
+let popupFieldJob = popup.querySelector('.popup__field_next-job');
 let profileName = document.querySelector('.profile__name');
 let profileJob= document.querySelector('.profile__job');
 

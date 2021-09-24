@@ -1,7 +1,7 @@
-.popup__job{
+.popup__field{
     width: 358px;
     height: 34px;
-    margin-left: 36px;
+    margin: 0 0 25px 36px;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -9,4 +9,10 @@
     line-height: 17px;
     border: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+
+    
+}
+
+.popup__field:last-of-type{
+    margin-bottom: 0;
 }

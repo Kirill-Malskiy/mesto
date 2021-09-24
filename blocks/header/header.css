@@ -5,15 +5,27 @@
     border-bottom: 1px solid #545454;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 900px){
     .header {
         max-width: 750px;
         width: 100%;
     } 
 } 
 
+@media screen and (max-width: 760px){
+    .header {
+        max-width: 600px;
+    } 
+} 
 
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 610px){
+    .header {
+        max-width: 450px;
+    } 
+} 
+
+
+@media screen and (max-width: 460px) {
     .header {
         max-width: 320px;
         min-height: 56px;
